@@ -1,4 +1,4 @@
-# GridWise – BUP Smart Campus Energy Optimization API
+# GridWise-Energy-Optimizer: Smart Campus Energy Optimization API
 
 ## 1. Project Overview
 
